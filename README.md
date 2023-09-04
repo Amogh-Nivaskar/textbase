@@ -4,6 +4,8 @@ It is a chatbot which generates roadmaps for any new piece of technology anyone 
 
 Link of video demonstration on YouTube - https://www.youtube.com/watch?v=LoKx7v7MtDg
 
+Try it out at - https://bot.textbase.ai/amoghpnivas/roadmap-chatbot-v8
+
 # Textbase
 
 ✨ Textbase is a framework for building chatbots using NLP and ML. ✨
