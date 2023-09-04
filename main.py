@@ -88,8 +88,8 @@ def on_message(message_history: List[Message], state: dict = None):
 
         
 
-        # BASE_URL = "https://roadmap-chatbot-server.onrender.com"
-        BASE_URL = "http://localhost:5000"
+        BASE_URL = "https://roadmap-chatbot-server.onrender.com"
+        # BASE_URL = "http://localhost:5000"
         res = requests.post(BASE_URL+'/roadmap', json=data)
         print("res is :")
         print(res.json())
