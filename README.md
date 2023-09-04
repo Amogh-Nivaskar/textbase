@@ -1,3 +1,9 @@
+# Roadmap Generation Chatbot based on Textbase
+
+It is a chatbot which generates roadmaps for any new piece of technology anyone wants to learn. It is connected to an external server hosted on render.com whos repo is at - https://github.com/Amogh-Nivaskar/roadmap-chatbot-server
+
+Link of video demonstration on YouTube - https://www.youtube.com/watch?v=LoKx7v7MtDg
+
 # Textbase
 
 ✨ Textbase is a framework for building chatbots using NLP and ML. ✨
