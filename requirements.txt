@@ -1,0 +1,4 @@
+textbase-client>=0.1.2
+requests==2.31.0
+langchain==0.0.279
+openai==0.27.10
