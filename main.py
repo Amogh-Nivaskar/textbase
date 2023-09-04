@@ -12,7 +12,7 @@ from langchain.llms import OpenAI
 # OpenAI.api_key = ""
 # or from environment variable:
 
-# OpenAI.api_key ="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"
+# OpenAI.api_key =""
 
 
 
